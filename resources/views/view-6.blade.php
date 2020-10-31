@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Controller2</title>
+    </head>
+    <body>
+        <h1>Dua</h1>
+        <p>2</p>
+    </body>
+</html>

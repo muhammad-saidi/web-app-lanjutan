@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Controller2</title>
+    </head>
+    <body>
+        <h1>Tiga</h1>
+        <p>3</p>
+    </body>
+</html>

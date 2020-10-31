@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Controller2</title>
+    </head>
+    <body>
+        <h1>Satu</h1>
+        <p>1</p>
+    </body>
+</html>
